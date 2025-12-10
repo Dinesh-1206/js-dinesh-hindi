@@ -1,7 +1,7 @@
 let name="dinesh"
 let repoCount=50
 
-console.log(`my name oi ${name} and my recount is ${repoCount}`);
+console.log(`my name oi ${name} and my recount is ${repoCount}`);//modern syntax
 
 const gameName=new String('dinesh-kandpal')
 console.log(gameName[0])
